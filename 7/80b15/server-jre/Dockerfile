@@ -1,7 +1,8 @@
 # AlpineLinux with a glibc-2.23 and Oracle Java 7
 FROM alpine:3.4
 
-MAINTAINER Anastas Dancha <anapsix@random.io>
+MAINTAINER Sean Abbott <sabbott@finmason.com>
+# thanks to the original, Anastas Dancha <anapsix@random.io>
 # thanks to Vladimir Krivosheev <develar@gmail.com> aka @develar for smaller image
 # and Victor Palma <palma.victor@gmail.com> aka @devx for pointing it out
 
